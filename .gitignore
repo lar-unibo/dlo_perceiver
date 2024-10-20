@@ -1,0 +1,22 @@
+*.png
+*.pth
+*.h5
+*.pkl
+*.pickle
+
+*/*/__pycache__/*
+*.pyc
+/*/*/*.pyc
+*.pt
+
+wandb/*
+checkpoints/*
+data/*
+dataset_generator/renderings/*
+*.egg-info
+
+
+*/sample/*
+*.txt
+# Textures
+/resources/cctextures/*
